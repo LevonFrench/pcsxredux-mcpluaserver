@@ -1,0 +1,5 @@
+.ram_snapshot.bin
+pad_cmd.txt
+screenshots/
+__pycache__/
+*.pyc
